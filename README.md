@@ -1,5 +1,6 @@
 # Implementation for Improving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning
 
+In the paper all experiments have been performed on google colab plus.
 
 ## Usage
 
