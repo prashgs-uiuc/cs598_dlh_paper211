@@ -42,7 +42,7 @@ All experiments were performed on google colab plus.
 
     ```
 
-7. Upload cs598_dlh_paper211 folder and its content to Google Drive. Access notebooks in a sequence using Google Colab.
+7. Upload `cs598_dlh_paper211 folder` and its contents to Google Drive. Access notebooks in a sequence using Google Colab.
 
 8. Steps 9-20 requires Google Colab Pro version. Using Free version of Google Colab will increase training time and in some instances can lead to failure because of long run times.
 
