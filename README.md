@@ -4,6 +4,10 @@ Reference to Original Paper - [Link](https://arxiv.org/abs/2011.12349)
 
 Reference to Original Code - [Link](https://github.com/tanlab/ConvolutionMedicalNer)
 
+Reference to Youtube presentation - [Link](https://www.youtube.com/watch?v=WQBVjSZQEAg)
+
+Reference to Presentation - [Link](https://github.com/prashgs-uiuc/cs598_dlh_paper211/blob/main/CS598_Recreation_Improving%20Clinical%20Outcome%20with%20Convolution.pptx)
+
 This code was cloned from Original Code, but we modified sections of code to conduct experiments on Google Colab. 
 All experiments were performed on google colab plus.
 
