@@ -97,3 +97,5 @@ All experiments were performed on google colab plus.
 
 20. Open and run `10-Proposed-Model.ipynb` with appropriate path to see results from all the above models. 
 
+Note: This repository also include `09-Proposed-Model-pytorch.ipynb` which is the work we started to reimplement proposed model in pytorch but we couldn't complete it.
+
